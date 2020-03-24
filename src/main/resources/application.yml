@@ -1,0 +1,8 @@
+spring:
+  data:
+    rest:
+      basePath: /v1
+    neo4j:
+      uri: bolt://127.0.0.1:7687
+#      username: neo
+#      password: secret
